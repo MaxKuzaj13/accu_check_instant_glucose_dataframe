@@ -162,3 +162,4 @@ cython_debug/
 Export.csv
 Zbiorcze zestawienie poziomu cukru od dnia*
 Summary of sugar levels from date*
+.DS_Store
